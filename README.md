@@ -1,4 +1,4 @@
-# ─── ❖ ─── LEGEND // KINETIC-LABS-GT ─── ❖ ───
+# ─── ❖ ─── KINETIC-LABS-GT ─── ❖ ───
 ### AI Developer • Systems Engineer • Rationalist
 
 <p align="left">
@@ -30,19 +30,6 @@ A verified record of verified structural modifications landed inside industry-st
 | Framework | Target Subsystem / Component | Contribution Type | Verification & Proof |
 | :--- | :--- | :--- | :--- |
 | **pytorch/pytorch** | ATen Internal C++ Dispatch Core (`ReduceOps.cpp`) | Implemented native `Half` and `BFloat16` precision execution fallback loops for the `trace_cpu` operator kernel. | [Commit `dfbf63b`](https://github.com/pytorch/pytorch/commit/dfbf63b) |
-
----
-
-## 🪐 Primary AI Research Initiatives
-* **Arch-A:** A compact general intelligence model trained purely on hand-picked, curated high-quality synthetic datasets. Architectural goals prioritize state-of-the-art multi-turn reasoning patterns, native multi-language Indian tokenization layers, and maximum execution cost-efficiency.
-* **Kinetic-RT:** An experimental high-performance static-graph optimization and compilation runtime engine tailored explicitly for alternative enterprise accelerator ecosystems.
-
----
-
-## 📜 Technical Credentials & Specializations
-* **Google Cloud** — Advanced Skills Track Specializations
-* **AI Architecture & Systems Engineering** — Verified Research Paths
-* *For comprehensive verification logs, code walkthroughs, and academic credentials, view the full [Engineering Portfolio](https://github.com/Kinetic-Labs-GT/Engineering-Portfolio) ledger.*
 
 ---
 
