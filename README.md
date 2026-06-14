@@ -27,7 +27,7 @@
 
 <br>
 
-## <p align="center"><b>⎯  TOOLCHAIN  ⎯</b></p>
+## <p align="center"><b>  TOOLCHAIN  </b></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -46,7 +46,7 @@
 
 <br>
 
-## <p align="center"><b>⎯  ONGOING PROJECTS  ⎯</b></p>
+## <p align="center"><b>  ONGOING PROJECTS  </b></p>
 
 <p align="center">
   Pre‑training & fine‑tuning AI models for<br>
@@ -75,7 +75,7 @@
 
 <br>
 
-## <p align="center"><b>⎯  CONNECT  ⎯</b></p>
+## <p align="center"><b>  CONNECT  </b></p>
 
 <p align="center">
   <a href="https://github.com/Kinetic-Labs-GT"><img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png"/></a>  
