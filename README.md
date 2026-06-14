@@ -1,35 +1,3 @@
-```python
-import os
-
-readme_content = """# ─── ❖ ── ✦ ── ❖ ───
-# 𝔒𝔅ℑ𝔗𝔒 𝔘𝔖𝔗ℑ𝔗ℌ𝔄 // 𝔏𝔈𝔊𝔈𝔑𝔇
-### *Architecting the Future of Reason, Compute, and Reality.*
-# ─── ❖ ── ✦ ── ❖ ───
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Cyber Noir Header" style="border-radius: 8px; border: 1px solid #1a1a2e;"/>
-</div>
-
-<br />
-
-
-```
-
-```text
-README.md generated successfully.
-
-```markdown
-┌────────────────────────────────────────────────────────────────────────┐
-│  ▶ OS       : Novant OS (Custom Kernel Archetype)                      │
-│  ▶ Architecture: Deep Transformers • MoE • State Space Models (SSMs)    │
-│  ▶ Workspace: Beast-Zen Workstation // Cluster Accelerator Node        │
-│  ▶ Mission  : SOTA Reasoning, Multilinguality, and Cost-Effectiveness  │
-└────────────────────────────────────────────────────────────────────────┘
-
-```
-
----
-
 ### 🌌 𝔗𝔥𝔢  𝔒𝔡𝔶𝔰𝔰𝔢𝔶
 
 I am a student, systems engineer, and AI developer operating at the convergence of **Theoretical Physics, Advanced Mathematics, and Deep Neural Architectures**. Driven by a cyber-noir and glass-morphic visual philosophy, I view code not just as logic, but as an aesthetic medium to decode the universe.
