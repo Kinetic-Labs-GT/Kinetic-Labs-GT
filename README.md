@@ -1,6 +1,3 @@
-Here is a complete `README.md` for your GitHub profile. It's designed to be a "Cosmic Hacker Terminal" style, blending your interests in code, physics, and mathematics with a powerful, aesthetic look.
-
-```markdown
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                    K I N E T I C - L A B S - G T                          ║
 ║                      ███████╗████████╗ █████╗ ██████╗                     ║
