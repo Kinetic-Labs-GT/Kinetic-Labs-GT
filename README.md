@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=1&width=100%" />
 </p>
 
-## <p align="center"><b>⎯  INTRODUCTION  ⎯</b></p>
+## <p align="center"><b>  INTRODUCTION  </b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=LEGEND;Kinetic-Labs-GT" alt="Typing SVG" />
