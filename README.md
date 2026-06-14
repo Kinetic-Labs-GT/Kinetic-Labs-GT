@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>AI Developer · Systems Thinker</strong><br>
+  <strong>AI Developer · Systems Thinker · Rationalist</strong><br>
   Student of <strong>AI, Computer Science, Physics & Mathematics</strong><br>
   Based in <strong>New Delhi, India</strong>
 </p>
