@@ -8,7 +8,7 @@
 
 <br>
 
-## <p align="center"><b>⎯  IDENTITY  ⎯</b></p>
+## <p align="center"><b>⎯  INTRODUCTION  ⎯</b></p>
 
 <p align="center">
   <strong>Legend</strong> · AI Developer · Systems Thinker<br>
