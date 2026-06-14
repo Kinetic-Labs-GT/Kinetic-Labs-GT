@@ -19,10 +19,10 @@
 
 <br>
 
-## <p align="center"><b>⎯  INTERESTS  ⎯</b></p>
+## <p align="center"><b>  INTERESTS  </b></p>
 
 <p align="center">
-  🧬 Anime · 💻 Coding · 📖 Reading · 🧠 Systems Design
+   Anime ·  Coding ·  Reading ·  Systems Design
 </p>
 
 <br>
