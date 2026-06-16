@@ -22,7 +22,7 @@
 ## <p align="center"><b>  INTERESTS  </b></p>
 
 <p align="center">
-   Coding · Music · Systems Design · Anime
+   Coding · Music · Systems Design · Anime
 </p>
 
 <br>
