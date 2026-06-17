@@ -32,34 +32,64 @@
 
 <br>
 
-## <p align="center"><b> Tech Stack </b></p>
+## <p align="center"><b> TECH STACK </b></p>
+
+<br>
+
+### <p align="center">Languages & Systems</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
-<img src="https://skillicons.dev/icons?i=docker" height="42"/>
-<img src="https://skillicons.dev/icons?i=linux" height="42"/>
-<img src="https://skillicons.dev/icons?i=git" height="42"/>
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-<img src="https://skillicons.dev/icons?i=kaggle" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=cpp" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+
+</p>
+
+<br>
+
+### <p align="center">AI Ecosystem</p>
+
+<p align="center">
+
+<img src="./assets/gemini.png" height="48"/>
+
+   
+
+<img src="./assets/claude.png" height="48"/>
+
+   
+
+<img src="./assets/deepseek.png" height="48"/>
+
+   
+
+<img src="./assets/antigravity.png" height="48"/>
+
+   
+
+<img src="./assets/kaggle.png" height="48"/>
+
+   
+
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="48"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DeepSeek-2962FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
+Gemini • Claude • DeepSeek • Antigravity • Kaggle • Hugging Face
 </p>
+
 
 <p align="center">
 
