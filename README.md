@@ -27,12 +27,12 @@
 ## <p align="center"><b> Research Interests </b></p>
 
 <p align="center">
-  Large Language Models • AI Safety • Reasoning Systems • Distributed Training • Theoretical physics • Mathematics
+  Computer Science • AI • Reasoning Systems • Distributed Training • Theoretical physics • Mathematics
 </p>
 
 <br>
 
-## <p align="center"><b> TOOLCHAIN </b></p>
+## <p align="center"><b> Tech Stack </b></p>
 
 <p align="center">
 
