@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=1&width=100%" />
 </p>
@@ -210,4 +209,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinetic-Labs
 <p align="center">
   <code>LEGEND — Precision Over Noise</code>
 </p>
-```
