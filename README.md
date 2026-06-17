@@ -27,7 +27,7 @@
 ## <p align="center"><b> Research Interests </b></p>
 
 <p align="center">
-  Large Language Models • AI Safety • Reasoning Systems • Distributed Training • Theoretical physics
+  Large Language Models • AI Safety • Reasoning Systems • Distributed Training • Theoretical physics • Mathematics
 </p>
 
 <br>
