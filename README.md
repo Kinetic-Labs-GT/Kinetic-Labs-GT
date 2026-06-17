@@ -62,15 +62,15 @@
 
 <p align="center">
 
-<img src="./assets/gemini.png" height="48"/>
+<img src="assets/gemini.png" height="48"/>
 
    
 
-<img src="./assets/claude.png" height="48"/>
+<img src="assets/claude.png" height="48"/>
 
    
 
-<img src="./assets/deepseek.png" height="48"/>
+<img src="assets/deepseek.png" height="48"/>
 
    
 
@@ -78,7 +78,7 @@
 
    
 
-<img src="./assets/kaggle.png" height="48"/>
+<img src="assets/kaggle.png" height="48"/>
 
    
 
