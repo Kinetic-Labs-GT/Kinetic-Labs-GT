@@ -60,15 +60,6 @@
 
 <p align="center">
 
-<code>Python</code> •
-<code>PyTorch</code> •
-<code>TensorFlow</code> •
-<code>C++</code> •
-<code>Docker</code> •
-<code>Linux</code> •
-<code>Git</code> •
-<code>Hugging Face</code>
-
 </p>
 
 <br>
