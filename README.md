@@ -64,11 +64,11 @@
 
 <br>
 
-## <p align="center"><b> OPEN SOURCE </b></p>
+## <p align="center"><b> OPEN SOURCE CONTRIBUTIONS </b></p>
 
 <p align="center">
 
-🔥 Active Contributor
+Active contributions to:
 
 </p>
 
