@@ -24,10 +24,10 @@
 
 <br>
 
-## <p align="center"><b> INTERESTS </b></p>
+## <p align="center"><b> Research Interests </b></p>
 
 <p align="center">
-  Coding • Artificial Intelligence • Systems Design • Mathematics • Music • Anime
+  Large Language Models • AI Safety • Reasoning Systems • Distributed Training • Theoretical physics
 </p>
 
 <br>
