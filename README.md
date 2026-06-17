@@ -32,7 +32,7 @@
 
 <br>
 
-## <p align="center"><b> TECH STACK </b></p>
+## <p align="center"><b> Tech Stack </b></p>
 
 <br>
 
@@ -74,7 +74,7 @@
 
    
 
-<img src="./assets/antigravity.png" height="48"/>
+<img src="asset/antigravity.png" width="56"/>
 
    
 
