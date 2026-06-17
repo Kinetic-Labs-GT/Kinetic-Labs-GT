@@ -1,16 +1,22 @@
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=1&width=100%" />
 </p>
 
-## <p align="center"><b>  INTRODUCTION  </b></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=LEGEND;Kinetic-Labs-GT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=LEGEND;Kinetic-Labs-GT;AI+Developer+%7C+Systems+Thinker" />
 </p>
 
 <p align="center">
-  <strong>AI Developer · Systems Thinker · Rationalist</strong><br>
-  Based in <strong>New Delhi, India</strong>
+  <strong>AI Developer · Systems Thinker · Rationalist</strong>
+</p>
+
+<p align="center">
+  New Delhi, India
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kinetic-Labs-GT&label=PROFILE+VIEWS&color=000000&style=flat" />
 </p>
 
 <p align="center">
@@ -19,66 +25,174 @@
 
 <br>
 
-## <p align="center"><b>  INTERESTS  </b></p>
+## <p align="center"><b> INTERESTS </b></p>
 
 <p align="center">
-   Coding | Systems Design | Music | Anime
+  Coding • Artificial Intelligence • Systems Design • Mathematics • Music • Anime
 </p>
 
 <br>
 
-## <p align="center"><b>  TOOLCHAIN  </b></p>
+## <p align="center"><b> TOOLCHAIN </b></p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/google-gemini.png" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/claude-ai.png" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/deepseek.png" width="40" height="40" />
-  <img src="" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/>
+
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="42" height="42"/>
+
 </p>
 
 <p align="center">
-  <em>Active contributor to:</em><br>
-  <code>PyTorch</code> <code>TensorFlow</code> <code>Hugging Face Datasets</code> <code>AMD ROCm</code>
+
+<code>Python</code> •
+<code>PyTorch</code> •
+<code>TensorFlow</code> •
+<code>C++</code> •
+<code>Docker</code> •
+<code>Linux</code> •
+<code>Git</code> •
+<code>Hugging Face</code>
+
 </p>
 
 <br>
 
-## <p align="center"><b>  ONGOING PROJECTS  </b></p>
+## <p align="center"><b> OPEN SOURCE </b></p>
 
 <p align="center">
-  Pre‑training & fine‑tuning AI models for<br>
-  <strong>Safety</strong> · <strong>Reasoning</strong> · <strong>Complex Mathematics</strong><br>
-  <strong>Code Generation</strong> · <strong>Scientific Thinking</strong>
+
+🔥 Active Contributor
+
 </p>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20"/>&nbsp;
+<b>PyTorch</b>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/>&nbsp;
+<b>TensorFlow</b>
+
+&nbsp;&nbsp;&nbsp;
+
+🤗 <b>Hugging Face</b>
+
+&nbsp;&nbsp;&nbsp;
+
+⚡ <b>AMD ROCm</b>
+
+</p>
+
+<br>
+
+## <p align="center"><b> CURRENT FOCUS </b></p>
+
+<p align="center">
+
+🧠 Large Language Models
+
+⚙️ AI Infrastructure
+
+📚 Synthetic Data Generation
+
+🔬 Reasoning & Mathematics
+
+🛡️ AI Safety
+
+🚀 Open Source Engineering
+
+</p>
+
+<br>
+
+## <p align="center"><b> ONGOING PROJECTS </b></p>
+
+<p align="center">
+
+Pre-training & Fine-tuning AI Models
+
+</p>
+
+<p align="center">
+
+<strong>Reasoning</strong> •
+<strong>Scientific Thinking</strong> •
+<strong>Complex Mathematics</strong> •
+<strong>Code Generation</strong> •
+<strong>AI Safety</strong>
+
+</p>
+
+<br>
+
+## <p align="center"><b> GITHUB ANALYTICS </b></p>
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Kinetic-Labs-GT&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Kinetic-Labs-GT&theme=dark&hide_border=true&background=000000"/>
+
+</div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kinetic-Labs-GT&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&hide_border=true" width="48%" />
-    </td>
-    <tr>
-      <img src="https://streak-stats.demolab.com?user=Kinetic-Labs-GT&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FFFFFF&sideLabels=E6E6E6&dates=E6E6E6&hide_border=true" width="48%" />
-    </td>
-  </table>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinetic-Labs-GT&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
+
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinetic-Labs-GT&bg_color=000000&color=FFFFFF&line=FFFFFF&point=E6E6E6&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinetic-Labs-GT&bg_color=000000&color=FFFFFF&line=FFFFFF&point=E6E6E6&area=true&hide_border=true" width="95%" />
 </p>
 
 <br>
 
-## <p align="center"><b>  CONNECT  </b></p>
+## <p align="center"><b> CONNECT </b></p>
 
 <p align="center">
-  <a href="https://github.com/Kinetic-Labs-GT"><img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png"/></a>  
-  <a href="https://www.instagram.com/eternal_shadow_i_"><img src="data:image/jpeg;base64,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"/></a>  
-  <a href="https://twitter.com/Kinetic-Labs-GT"><img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png"/></a>
+
+<a href="https://github.com/Kinetic-Labs-GT">
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/eternal_shadow_i_">
+<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/Kinetic-Labs-GT">
+<img src="https://skillicons.dev/icons?i=twitter" width="42"/>
+</a>
+
 </p>
 
 <br>
@@ -88,5 +202,12 @@
 </p>
 
 <p align="center">
-  <code>// Legend — precision over noise</code>
+  <i>
+    Building intelligent systems with reasoning, safety, and scientific rigor.
+  </i>
 </p>
+
+<p align="center">
+  <code>LEGEND — Precision Over Noise</code>
+</p>
+```
