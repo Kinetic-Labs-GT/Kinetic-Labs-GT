@@ -49,6 +49,20 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DeepSeek-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
+
+<p align="center">
+
 </p>
 
 <br>
