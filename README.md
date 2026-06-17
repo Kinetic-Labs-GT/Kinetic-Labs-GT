@@ -67,28 +67,18 @@
 ## <p align="center"><b> OPEN SOURCE CONTRIBUTIONS </b></p>
 
 <p align="center">
-
-Active contributions to:
-
+  <i>Active contributions to</i>
 </p>
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20"/>&nbsp;
-<b>PyTorch</b>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/>&nbsp;
-<b>TensorFlow</b>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-&nbsp;&nbsp;&nbsp;
-
-🤗 <b>Hugging Face</b>
-
-&nbsp;&nbsp;&nbsp;
-
-⚡ <b>AMD ROCm</b>
+<img src="https://img.shields.io/badge/AMD_ROCm-000000?style=for-the-badge&logo=amd&logoColor=white"/>
 
 </p>
 
