@@ -36,25 +36,14 @@
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/>
-
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
+<img src="https://skillicons.dev/icons?i=docker" height="42"/>
+<img src="https://skillicons.dev/icons?i=linux" height="42"/>
+<img src="https://skillicons.dev/icons?i=git" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+<img src="https://skillicons.dev/icons?i=kaggle" height="42"/>
 
 </p>
 
