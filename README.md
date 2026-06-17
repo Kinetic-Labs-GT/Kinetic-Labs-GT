@@ -66,7 +66,7 @@
 
    
 
-<img src="assets/claude.png" height="48"/>
+<img src="asset/claude.png" width="48"/>
 
    
 
