@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<img src="assets/gemini.png" height="48"/>
+<img src="asset/gemini.png" height="48"/>
 
    
 
@@ -70,7 +70,7 @@
 
    
 
-<img src="assets/deepseek.png" height="48"/>
+<img src="asset/deepseek.png" height="48"/>
 
    
 
