@@ -80,7 +80,7 @@
 
 <br>
 
-## <p align="center"><b> OPEN SOURCE CONTRIBUTIONS </b></p>
+## <p align="center"><b> Open Source </b></p>
 
 <p align="center">
   <i>Active contributions to</i>
