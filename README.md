@@ -86,10 +86,6 @@
 
 </p>
 
-<p align="center">
-Gemini • Claude • DeepSeek • Antigravity • Kaggle • Hugging Face
-</p>
-
 
 <p align="center">
 
