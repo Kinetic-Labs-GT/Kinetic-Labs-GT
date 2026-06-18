@@ -120,6 +120,14 @@
   <code>LEGEND — Precision Over Noise</code>
 </p>
 
+<!-- Note Section Here -->
+
+<p align="center">
+  <sub>
+    Note: The suffix <b>GT</b> in <b>Kinetic-Labs-GT</b> has no official full form. It was added simply to create a unique identity and avoid confusion with other organizations and brands that use the name <b>Kinetic Labs</b>.
+  </sub>
+</p>
+
 <br>
 
 <p align="center">
