@@ -119,3 +119,11 @@
 <p align="center">
   <code>LEGEND — Precision Over Noise</code>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.instagram.com/eternal_shadow_i_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  </a>
+</p>
