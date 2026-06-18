@@ -78,7 +78,7 @@
 
    
 
-<img src="assets/kaggle.png" height="48"/>
+<img src="asset/kaggle.png" height="48"/>
 
    
 
