@@ -62,11 +62,11 @@
 
 <p align="center">
 
-<img src="asset/gemini.png" width="48"/>
+<img src="asset/gemini.png" width="60"/>
 
    
 
-<img src="asset/claude.png" width="56" height="48"/>
+<img src="asset/claude.png" width="56"/>
 
    
 
