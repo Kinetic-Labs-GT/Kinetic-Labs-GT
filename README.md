@@ -61,31 +61,18 @@
 ### <p align="center">AI Ecosystem</p>
 
 <p align="center">
-
-<img src="asset/gemini.png" height="52"/>
-
-   
-
-<img src="asset/claude.png" height="48"/>
-
-   
-
-<img src="asset/deepseek.png" height="50"/>
-
-   
-
-<img src="asset/antigravity.png" width="56"/>
-
-   
-
-<img src="asset/kaggle.png" height="48"/>
-
-   
-
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="48"/>
-
+  <img src="asset/gemini.png" height="52"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="asset/claude.png" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="asset/deepseek.png" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="asset/antigravity.png" height="52"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="asset/kaggle.png" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="48"/>
 </p>
-
 
 <p align="center">
 
