@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=LEGEND;Kinetic-Labs-GT;AI+Developer+%7C+Systems+Thinker" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Gaurav;Kinetic-Labs-GT;AI+Developer+%7C+Systems+Thinker" />
 </p>
 
 <p align="center">
