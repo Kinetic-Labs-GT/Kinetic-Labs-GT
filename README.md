@@ -63,7 +63,7 @@
 <p align="center">
   <img src="asset/Gemini.jfif" height="52"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="asset/deepseek.png" height="50"/>
+  <img src="asset/deepseek.png" width=56/>
   &nbsp;&nbsp;&nbsp;
   <img src="asset/antigravity.png" height="52"/>
   &nbsp;&nbsp;&nbsp;
