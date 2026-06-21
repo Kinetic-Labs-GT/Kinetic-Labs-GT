@@ -115,7 +115,7 @@
 </p>
 
 <p align="center">
-  <code>LEGEND — Precision Over Noise</code>
+  <code>— Precision Over Noise</code>
 </p>
 
 <!-- Note Section Here -->
