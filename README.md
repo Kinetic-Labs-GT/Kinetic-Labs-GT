@@ -61,7 +61,7 @@
 ### <p align="center">AI Ecosystem</p>
 
 <p align="center">
-  <img src="asset/gemini.png" height="52"/>
+  <img src="asset/Gemini.jfif" height="52"/>
   &nbsp;&nbsp;&nbsp;
   <img src="asset/claude.png" height="48"/>
   &nbsp;&nbsp;&nbsp;
