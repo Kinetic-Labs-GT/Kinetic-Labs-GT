@@ -65,9 +65,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="asset/deepseek.png" width=56/>
   &nbsp;&nbsp;&nbsp;
-  <img src="asset/antigravity.png" height="52"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="asset/kaggle.png" height="48"/>
+  <img src="asset/antigravity.png" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="48"/>
 </p>
