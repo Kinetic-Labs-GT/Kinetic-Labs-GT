@@ -24,7 +24,7 @@
 
 <br>
 
-## <p align="center"><b> Research Interests </b></p>
+## <p align="center"><b> My interested concepts </b></p>
 
 <p align="center">
   Computer Science • AI • Reasoning Systems • Distributed Training • Theoretical physics • Mathematics
