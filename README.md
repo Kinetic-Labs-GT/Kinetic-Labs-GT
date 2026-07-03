@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <code>— Precision Over Noise</code>
+  <code>Precision Over Noise</code>
 </p>
 
 <!-- Note Section Here -->
